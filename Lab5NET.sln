@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5NET", "Lab5NET\Lab5NET.csproj", "{32F675B5-CAD2-4100-896F-80DC104E1B9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToeLibrary", "TicTacToeLibrary\TicTacToeLibrary.csproj", "{E718A46A-D1AF-4091-8FF7-8608E5857E53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32F675B5-CAD2-4100-896F-80DC104E1B9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F675B5-CAD2-4100-896F-80DC104E1B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F675B5-CAD2-4100-896F-80DC104E1B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F675B5-CAD2-4100-896F-80DC104E1B9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E718A46A-D1AF-4091-8FF7-8608E5857E53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E718A46A-D1AF-4091-8FF7-8608E5857E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E718A46A-D1AF-4091-8FF7-8608E5857E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E718A46A-D1AF-4091-8FF7-8608E5857E53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28A004A9-629A-4288-A6E6-86CB80AA7953}
+	EndGlobalSection
+EndGlobal
